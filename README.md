@@ -7,6 +7,7 @@ This resource pack changes every possible things to what OITSWILLIAM wants.
 - Replaces default font with the custom-made font (except the full-width ones).
 - Replaces UI elements sounds,
 - Replaces pop-up notification sound using FitnessGram Pacer Test sound effect,
+- Replace iron helmet with R4R, and diamond helmet with R4R with hat,
 - and replaces the Minecraft logo too.
 
 The following features that needs to reconfigure the pack from the options:
