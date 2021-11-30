@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Mojave mine craft memepack",
+    "name": "mojave mine craft",
+    "uuid": "0d213ebd-7330-407d-bb8d-676309a80f97",
+    "version": [ 18, 0, 10 ],
+    "min_engine_version": [ 1, 17, 40 ]
+  },
+  "modules": [
+    {
+      "description": "mojave mine craft",
+      "type": "resources",
+      "uuid": "d46e6002-2b28-46f1-a32b-cb173b7c14c3",
+      "version": [ 18, 0, 10 ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "no_earrap",
+      "name": "No earrap",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "with_earrap",
+      "name": "With earrap (turn down volume recommended!!!)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "stock",
+      "name": "Replace UI sounds only",
+      "memory_tier": 1
+    }
+  ]
+}

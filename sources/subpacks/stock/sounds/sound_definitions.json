@@ -1,0 +1,28 @@
+{
+	"format_version" : "1.14.0",
+   "sound_definitions" : {
+	  "random.smartclick" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "ui",
+         "sounds" : [
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/random/clickenter",
+               "volume" : 0.20
+            }
+         ]
+      },
+	  	  "random.smartclickexit" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "ui",
+         "sounds" : [
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/random/clickenter",
+               "volume" : 0.20
+            }
+         ]
+      }
+	  // the ending of the defs
+}
+}

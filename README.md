@@ -1,10 +1,21 @@
 # Mojave-mine-craft
 Mojave mine craft resource pack for Minecraft BE
-## Early access
+## Features
 
-The usable version of this file is now available to get in the Releases, but it has multiple issues, including missing sounds and messy moves.
+This resource pack changes every possible things to what OITSWILLIAM wants.
 
-The final version will be released as soon as when Minecraft 1.18 releases.
+- Replaces default font with the custom-made font (except the full-width ones).
+- Replaces UI elements sounds,
+- Replaces pop-up notification sound using FitnessGram Pacer Test sound effect,
+- and replaces the Minecraft logo too.
+
+The following features that needs to reconfigure the pack from the options:
+- Replace player hurt sound with Tesla warning sound,
+- Replace player death sound with sounds that are funny,
+- Replace rabbit hurt sound to the same thing the player plays,
+- Replace rabbit death sounds with the beginning of the Highway Section 2.
+
+Currently, it has three options, replace UI elements only, play sounds from this resource pack and the "earrap" ear-hurting sounds mode (headphones NOT recommended).
 
 ### Download
 

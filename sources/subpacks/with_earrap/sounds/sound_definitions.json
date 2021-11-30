@@ -1,0 +1,65 @@
+{
+	"format_version" : "1.14.0",
+   "sound_definitions" : {
+	  "game.player.die": {
+    "category": "player",
+    "sounds": [
+      "sounds/damage/xgone",
+      {
+        "name": "sounds/damage/xgtwo"
+      },
+      {
+        "name": "sounds/damage/xgthree"
+      }
+    ]
+  },
+  // hurt sounds
+        "game.player.hurt" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "player",
+         "sounds" : [
+            "sounds/damage/hitoof"
+         ]
+      },
+	  "mob.rabbit.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/damage/hitoof"
+    ]
+  },
+    "mob.rabbit.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/mob/earrap_death",
+        "volume": 20.0,
+		"pitch": 1.00
+      }
+    ]
+  },
+    // interface sfx
+	  "random.smartclick" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "ui",
+         "sounds" : [
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/random/clickenter",
+               "volume" : 0.20
+            }
+         ]
+      },
+	  	  "random.smartclickexit" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "ui",
+         "sounds" : [
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/random/clickenter",
+               "volume" : 0.20
+            }
+         ]
+      }
+	  	  // the ending of the defs
+   }
+}
