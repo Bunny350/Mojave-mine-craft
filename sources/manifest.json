@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Mojave mine craft memepack",
+    "description": "Mojave mine craft memepack (V18.2)",
     "name": "mojave mine craft",
-    "uuid": "c35df1c4-87e0-4e4f-9e44-9413867c5571",
-    "version": [ 18, 1, 10 ],
-    "min_engine_version": [ 1, 20, 10 ]
+    "uuid": "7eeb9357-3bec-46e1-bad0-965bb5f641ff",
+    "version": [ 18, 2, 00 ],
+    "min_engine_version": [ 1, 21, 10 ]
   },
   "modules": [
     {
       "description": "mojave mine craft",
       "type": "resources",
-      "uuid": "c07df5e5-80a5-4eee-889e-dea0dae2d077",
-      "version": [ 18, 1, 10 ]
+      "uuid": "c268801f-275f-4b44-a7f8-6732bd4274c7",
+      "version": [ 18, 2, 00 ]
     }
   ],
   "subpacks": [
